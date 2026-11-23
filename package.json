@@ -1,0 +1,12 @@
+{
+  "name": "crypta-classical-cipher-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A browser-based classical cipher and text compression learning studio.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
